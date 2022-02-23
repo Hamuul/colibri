@@ -1,7 +1,9 @@
 # colibri
 TUI Search Engine and Browser
 
-Run on any Linux OS in a terminal emutator by cloning this repo and using
+Requires gcc and ncurses.
+
+Run on WSL or any Linux dsitro in a terminal emutator by cloning this repo and using
 ```bash
 make build
 ./browser.c
