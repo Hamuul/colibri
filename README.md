@@ -1,5 +1,4 @@
-# colibri
-TUI Search Engine and Browser
+# colibri - TUI Search Engine and Browser
 
 Requires gcc and ncurses.
 
